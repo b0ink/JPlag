@@ -89,7 +89,7 @@ The language can either be set with the -l parameter or as a subcommand (`jplag 
 Language-specific arguments can be set when using the subcommand. A list of language-specific options can be obtained by requesting the help page of a subcommand (e.g., `jplag java —h`).
 
 ```
-Parameter descriptions:
+Parameter descriptions: 
       [root-dirs[,root-dirs...]...]
                              Root-directory with submissions to check for
                                plagiarism. If mode is set to VIEW, this
